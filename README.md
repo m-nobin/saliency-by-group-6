@@ -1,4 +1,4 @@
-# Assignment-3: Comparative Analysis of Saliency Prediction Models for ASD and TD Fixation
+# Comparative Analysis of Saliency Prediction Models for ASD and TD Fixation
 
 This repository contains tools for processing saliency predictions and comparing their performance on Autism Spectrum Disorder (ASD) and Typically Developing (TD) fixation maps. Below is a guide for cloning the repo, generating saliency prediction maps using selected models, running the evaluation code on both Google Colab and MATLAB, and then analyzing the results.
 
